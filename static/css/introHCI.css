@@ -40,3 +40,15 @@ body {
 .project a {
      text-align: center;
 }
+
+.bossClass {
+     color: blue;
+     font-size: 30px;
+     font-family: sans-serif;
+     font-weight: 900;
+
+}
+#projectForm {
+     width: 70%;
+     margin: 0 auto;
+}
